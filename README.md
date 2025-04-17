@@ -1,12 +1,15 @@
 ## 👋 Hi there
 
+I'm a backend developer. Like to discover how does software work, and not only software :)
+Most of my educational projects are hidden, but, for projects like ![this interpreter](https://github.com/decatile/simple-lang-rs) you can give a try!
+
 ## 📊 Stats
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/Catile)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=decatile)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=decatile&layout=compact)
-
-![Leetcode Stats](https://leetcard.jacoblin.cool/Catile)
 
 ## 📫 Contacts
 
