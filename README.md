@@ -1,19 +1,19 @@
 ## 👋 Hi there
 
-I am a backend developer. Love learning how software works, and not just software:)  
+I am a backend developer. Love learning how software works, and not just software :)  
 Most of my educational projects are hidden, but for projects like ![this interpreter](https://github.com/decatile/simple-lang-rs), you can give it a try!
 
-## 📊 Stats
+## 📫 Here you can contact me
+
+- Telegram: [@decatile](https://t.me/decatile)
+
+## 📊 And stats, I know you love them
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Catile)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=decatile)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=decatile&layout=compact)
-
-## 📫 Contacts
-
-- Telegram: [@decatile](https://t.me/decatile)
 
 <!--
 **decatile/decatile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
