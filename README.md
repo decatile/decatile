@@ -6,14 +6,6 @@ I am a backend developer. Love learning how software works, and not just softwar
 
 - Telegram: [@decatile](https://t.me/decatile)
 
-## 📊 And stats, I know you love them
-
-![Leetcode Stats](https://leetcard.jacoblin.cool/Catile)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=decatile)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=decatile&layout=compact)
-
 <!--
 **decatile/decatile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
