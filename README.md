@@ -1,7 +1,6 @@
 ## 👋 Hi there
 
-I am a backend developer. Love learning how software works, and not just software :)  
-Most of my educational projects are hidden, but for projects like ![this interpreter](https://github.com/decatile/simple-lang-rs), you can give it a try!
+I am a backend developer. Love learning how software works, and not just software :)
 
 ## 📫 Here you can contact me
 
