@@ -2,6 +2,17 @@
 
 I am a backend developer. Love learning how software works, and not just software :)
 
+## 🧰 My projects
+
+### 🔃 reqresolve
+[Pin dependencies](https://github.com/decatile/reqresolve) of python project according to git history. Supports pyproject and requirements file, colorful logging included.
+
+### 🤖 myaiproxy
+[Configure separate profiles](https://github.com/decatile/myaiproxy) for OpenAI-compatible endpoints. Useful for distinguish different usecases with ease.
+
+### ™️ nelang
+[An example](https://github.com/decatile/nelang) of toy language written in Rust & Nom. Supports both REPL and file, will carefully say if you're wrong.
+
 ## 📫 Here you can contact me
 
 - Telegram: [@decatile](https://t.me/decatile)
