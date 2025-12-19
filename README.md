@@ -4,6 +4,9 @@ I am a backend developer. Love learning how software works, and not just softwar
 
 ## 🧰 My projects
 
+### 🪿 clearapi
+[An example](https://github.com/decatile/clearapi) of python project with respect to Clean Architecture concepts, which implements referral system.
+
 ### 🔃 reqresolve
 [Pin dependencies](https://github.com/decatile/reqresolve) of python project according to git history. Supports pyproject and requirements file, colorful logging included.
 
@@ -11,7 +14,7 @@ I am a backend developer. Love learning how software works, and not just softwar
 [Configure separate profiles](https://github.com/decatile/myaiproxy) for OpenAI-compatible endpoints. Useful for distinguish different usecases with ease.
 
 ### ™️ nelang
-[An example](https://github.com/decatile/nelang) of toy language written in Rust & Nom. Supports both REPL and file, will carefully say if you're wrong.
+[A toy language](https://github.com/decatile/nelang) written in Rust & Nom. Supports both REPL and file, will carefully say if you're wrong.
 
 ## 📫 Here you can contact me
 
