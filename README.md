@@ -16,6 +16,9 @@ I am a backend developer. Love learning how software works, and not just softwar
 ### ™️ Yet Another Calculator
 [A toy language](https://github.com/decatile/yac) written in Rust & Nom. Supports both REPL and file, will carefully say if you're wrong.
 
+### 🧨 Shot
+[Interrupt UNIX processes](https://github.com/decatile/shot) with style. Simple CLI tool to send SIGKILL signal and play cool sound simultaneously.
+
 ## 📫 Here you can contact me
 
 - Telegram: [@decatile](https://t.me/decatile)
