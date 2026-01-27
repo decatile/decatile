@@ -4,6 +4,9 @@ I am a backend developer. Love learning how software works, and not just softwar
 
 ## 🧰 My projects
 
+### 🤠 Short Whisper
+[A native frontend](https://github.com/decatile/ShortWhisper) for ggml-org/whisper.cpp/whisper-server, with goal to integrate speech recognition to your workflow as smooth as possible.
+
 ### 🪿 Goose API
 [An example](https://github.com/decatile/goose-api) of python project with respect to Clean Architecture concepts, which implements referral system.
 
